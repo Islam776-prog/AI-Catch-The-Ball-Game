@@ -31,7 +31,7 @@ Usage
 
 .. code-block:: bash
 
-    git clone https://github.com/your-repo-url.git
+    git clone https://github.com/Islam776-prog/AI-Catch-The-Ball-Game
 
 2. Run the Python script to start training the AI model:
 
