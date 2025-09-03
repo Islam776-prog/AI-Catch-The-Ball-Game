@@ -1,7 +1,6 @@
 
 Done by:
-Islam Mahfouz Al-Huda 202073257
-Abdulmalik Farea Masoud 202174067
+Eng. Islam
 Catch The Ball AI Game
 =======================
 
